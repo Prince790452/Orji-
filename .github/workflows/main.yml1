@@ -1,0 +1,13 @@
+# 🌐 Orjii Supplies Website – Development Workflow
+
+This file outlines the development and deployment workflow for the Orjii Supplies e-commerce website.
+
+---
+
+## 🛠 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/orjii-supplies.git
+cd orjii-supplies
