@@ -7,6 +7,5 @@ This file outlines the development and deployment workflow for the Orjii Supplie
 ## 🛠 Setup Instructions
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/your-username/orjii-supplies.git
 cd orjii-supplies
